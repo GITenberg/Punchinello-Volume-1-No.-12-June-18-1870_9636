@@ -1,0 +1,29 @@
+_repo: Punchinello-Volume-1-No.-12-June-18-1870_9636
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9636/9636-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Punchinello
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'American wit and humor -- Periodicals'
+- GITenberg
+title: Punchinello, Volume 1, No. 12, June 18, 1870
+url: http://www.gutenberg.org/ebooks/9636
